@@ -1,8 +1,8 @@
 # CSS
 
-- 생활코딩 홈페이지 HTML 페이지 : <https://opentutorials.org/course/2418>
+- 생활코딩 홈페이지 CSS 페이지 : <https://opentutorials.org/course/2418>
 
-- 생활코딩 유투브 HTML 재생목록 : <https://www.youtube.com/playlist?list=PLuHgQVnccGMDaVaBmkX0qfB45R_bYrV62>
+- 생활코딩 유투브 CSS 재생목록 : <https://www.youtube.com/playlist?list=PLuHgQVnccGMDaVaBmkX0qfB45R_bYrV62>
 
 <br>
 
